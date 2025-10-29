@@ -286,5 +286,5 @@ All examples are provided under the [Apache 2.0 License](LICENSE).
 <p align="center">
   <a href="https://console.convox.com/signup">Get Started Free</a> •
   <a href="https://docs.convox.com">Documentation</a> •
-  <a href="https://github.com/convox/convox">Main Repository</a>
+  <a href="https://github.com/convox">Main Repository</a>
 </p>
