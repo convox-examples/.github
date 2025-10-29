@@ -1,7 +1,7 @@
 <table>
   <tr>
-    <td><img src="https://convox.com/images/logo.png" alt="Convox Logo"></td>
-    <td><img src="https://convox.com/images/banner.png" alt="Convox Examples Banner"></td>
+    <td><img src="/profile/images/logo.png" alt="Convox Logo"></td>
+    <td><img src="/profile/images/banner2.png" alt="Convox Banner"></td>
   </tr>
 </table>
 
